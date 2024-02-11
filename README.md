@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Welcome to my GitHub page!
-##### About me
+##### whoami
 I am a Digital Infrastructure and Cybersecurity student at NTNU with an interest for cybersecurity and work part-time as a security analyst in a cybersecurity firm.
 In my spare time I enjoy participating in CTF's, 
 
