@@ -2,7 +2,7 @@
 #### Welcome to my GitHub page!
 ##### whoami
 I am a Digital Infrastructure and Cybersecurity student at NTNU with an interest for cybersecurity and work part-time as a security analyst in a cybersecurity firm.
-In my spare time I enjoy participating in CTF's, 
+In my spare time I enjoy participating in CTF's, working out and fiddling with stuff I get a hangup on.  
 
 - 🔭 I’m currently working on my bachelor's thesis about use of generative AI in testing of security software. Besides tasks related to school, I enjoy customizing my environment to my liking and creating tools for better quality of life. 
 - 🌱 I’m currently learning further sophisticating and obfuscating our exploitation attempts, testing out different LLM's and their use in offensive security operations.
