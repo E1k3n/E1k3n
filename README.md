@@ -6,7 +6,7 @@ In my spare time I enjoy participating in CTF's, working out and fiddling with s
 
 - 🔭 I’m currently working on my bachelor's thesis about use of generative AI in testing of security software. Besides tasks related to school, I enjoy customizing my environment to my liking and creating tools for better quality of life. 
 - 🌱 I’m currently learning further sophisticating and obfuscating our exploitation attempts, testing out different LLM's and their use in offensive security operations.
-- 🤔 I’m looking for help with ... Detection avoidance?
+- 🤔 I’m looking for help with ... WAF bypass?
 - ⚡ Fun fact: I've been through both the healthcare sector and worked in a tinsmithing firm before my passion for cybersecurity lit up.
 - 👨‍💻 I've participated in EPT (Equinor) CTF, BSides Oslo CTF and multiple others online and on-campus. I have also had ethical hacking as part of my degree, and still experience a rising interest for offensive security.
 <!--
