@@ -5,8 +5,8 @@ I am a Digital Infrastructure and Cybersecurity student at NTNU with an interest
 In my spare time I enjoy participating in CTF's, working out and fiddling with stuff I get a hangup on.  
 
 - 🔭 I have a bachelor's degree in Digital Infrastructure and Cybersecurity. My bachelor's thesis explored the use of generative AI in offensive testing of security software.
-- I am currently taking a master's degree in Information Security, with a specialization within the Technology track. 
-- Besides tasks related to school, I enjoy customizing and changing up my workstation environment fairly often. 
+- 📘 I am currently taking a master's degree in Information Security, with a specialization within the Technology track.
+- 🖥️ Besides tasks related to school, I enjoy customizing and changing up my workstation environment fairly often.
 <!-- - 🌱 I’m currently learning further sophisticating and obfuscating our exploitation attempts, testing out different LLM's and their use in offensive security operations. -->
 <!-- - 🤔 I’m looking for help with -->
 - ⚡ Fun fact: I've been through both the healthcare sector and worked in a tinsmithing firm before my passion for cybersecurity lit up.
