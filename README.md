@@ -11,6 +11,7 @@ In my spare time I enjoy participating in CTF's, working out and fiddling with s
 <!-- - 🤔 I’m looking for help with -->
 - ⚡ Fun fact: I've been through both the healthcare sector and worked in a tinsmithing firm before my passion for cybersecurity lit up.
 - 👨‍💻 I've participated in EPT (Equinor) CTF, BSides Oslo CTF and multiple others online and on-campus. I also spend time going through HTB content and still experience a rising interest for offensive security.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aseiken/)
 <!--
 **Eikentotre/Eikentotre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
